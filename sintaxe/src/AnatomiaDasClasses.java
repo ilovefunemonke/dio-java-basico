@@ -3,7 +3,7 @@ public class AnatomiaDasClasses {
     public static void main(String[] args) throws Exception {
         //corpo da classe
         
-
+        
         // Declaração válida de veriáveis
         int numero$um = 1;
         int numero1 = 1;
